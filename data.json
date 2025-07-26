@@ -1,0 +1,602 @@
+[
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Who is my academic advisor, I study in Umass Dartmouth?"
+        },
+        {
+          "role": "assistant",
+          "content": "You can find your advisor's name by logging into COIN via myUMassD. If no advisor is listed, contact your major department directly. Undecided Engineering students should also contact the department for advisor details."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "I have a registration hold in COIN preventing me from enrolling in courses. What should I do?"
+        },
+        {
+          "role": "assistant",
+          "content": "Check your Student Center in COIN to see the type of hold. If it's an Advising hold, meet with your advisor. Financial holds must be cleared with the Bursar's Office, and Immunization holds with Health Services. Some holds, like Emergency Contact updates, can be resolved by the student directly."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "How do I declare my major if I am currently Engineering Undecided?"
+        },
+        {
+          "role": "assistant",
+          "content": "You should declare your major as soon as possible, no later than your 3rd semester. Get a Change of Major form and bring it to the College of Engineering Academic Advisor. A GPA of 2.0 or higher is required for acceptance."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "How do I change my major to Engineering at UMass Dartmouth?"
+        },
+        {
+          "role": "assistant",
+          "content": "First, review the requirements for intra-university transfers. If you qualify, get a Change of Major form and meet with the CoE academic advisor. After approval, get your current department heads signature and bring the form to DION 326 for final approval."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "How do I declare a minor at UMass Dartmouth?"
+        },
+        {
+          "role": "assistant",
+          "content": "Speak with an advisor in the minor department and your major advisor to plan your coursework. Then, complete a Declaring a Minor form and submit it to the department offering the minor."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Can I re-take a required course if I did poorly or failed? How does it affect my GPA?"
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, students can re-take a course once. The original grade is removed from the GPA, and the new grade is factored in. For certain Math and Physics courses, alternate versions can be taken, and the most recent grade counts toward the GPA."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "What happens if my GPA falls below 2.0?"
+        },
+        {
+          "role": "assistant",
+          "content": "You will receive a letter about your academic standing. A cumulative GPA below 2.0 leads to Academic Probation. If your semester GPA is 2.3+ and you have passed 67% of credits, you may be placed on Extended Probation. Two consecutive semesters below 2.0 may result in Academic Dismissal."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "I'm having difficulty with my math, science, engineering, or writing courses. Can I get help?"
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, tutoring for math, science, and engineering is available in the Science & Engineering Center (SENG 217B). For writing help, visit the Writing and Reading Center in the Liberal Arts building."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "How do I get the Dean's signature on forms?"
+        },
+        {
+          "role": "assistant",
+          "content": "Bring your forms to the College of Engineering Dean's Office in DION 326. The Associate Dean for Academic Affairs signs all paperwork. Allow a few business days for processing, do not wait until the last minute."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "I no longer want to live on-campus. Can I break my housing agreement?"
+        },
+        {
+          "role": "assistant",
+          "content": "Housing agreements are binding for the full academic year, with full financial"
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "How do I change my room?"
+        },
+        {
+          "role": "assistant",
+          "content": "Starting the first day of classes, contact your Resident Director or Area Coordinator to join the room change request list. Students in temporary housing get priority; others are considered on a first-come, first-served basis based on available spaces."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "What is my campus address for receiving mail?"
+        },
+        {
+          "role": "assistant",
+          "content": "To receive mail on campus, use this address: MacLean Campus Center, University of Massachusetts Dartmouth, 285 Old Westport Road, Dartmouth, Massachusetts, 02747. Be sure not to label it as a P .O. Box, or it may be delayed by the Post Office."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Where can I get my mail?"
+        },
+        {
+          "role": "assistant",
+          "content": "You can find details about where and how to receive your mail on the Mail and Package Services page of the university website."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "What is academic integrity?"
+        },
+        {
+          "role": "assistant",
+          "content": "Acting honestly in academic work, plagiarism, cheating, and fabrication are violations."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "What is considered complicity?"
+        },
+        {
+          "role": "assistant",
+          "content": "Assisting or being present during a violation and not reporting it."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "What is disorderly conduct?"
+        },
+        {
+          "role": "assistant",
+          "content": "Reckless or disruptive behavior that endangers people or interferes with university operations"
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "How do I make sure I am fulfilling the requirements for graduation?"
+        },
+        {
+          "role": "assistant",
+          "content": "Use the Undergraduate Catalog to review your college and major requirements, starting with 'Academic Regulations and Procedures.' Work closely with your academic advisor to plan and track your progress toward graduation."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Is there a class attendance policy?"
+        },
+        {
+          "role": "assistant",
+          "content": "Attendance policies differ by professor. Be sure to check with each instructor at the start of the semester to understand their specific expectations."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Who should be informed if I have a learning disability?"
+        },
+        {
+          "role": "assistant",
+          "content": "You are encouraged to contact the Office of Student Accessibility Services to confidentially discuss any needed accommodations. Disclosure is optional and has no impact on admissions or access to programs."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "What happens if my roommate and I aren't compatible?"
+        },
+        {
+          "role": "assistant",
+          "content": "Start by talking to your Resident Assistant, who can help mediate the situation. If things don't improve, they can help you request a room change, which depends on space availability."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "What happens at UMass Dartmouth on the weekends? Do most resident students stay on campus?"
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, many resident students stay on campus to join events or explore nearby areas. Dartmouth offers shopping, dining, beaches, trails, and a cinema hall just minutes from campus."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Do resident students need property or theft insurance?"
+        },
+        {
+          "role": "assistant",
+          "content": "You may be covered under your family's insurance, but it is your responsibility to"
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "What should I do if I get sick?"
+        },
+        {
+          "role": "assistant",
+          "content": "Visit the Health Services Office for evaluation and treatment. If needed, they can refer you to off-campus care or consult your primary provider. A nurse practitioner is on call when the office is closed."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "If I am a commuter, am I entitled to treatment at Health Services?"
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, all enrolled UMass Dartmouth students, including commuters are eligible to use Health Services."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "What is the focus of the MS in Computer Science at UMass Dartmouth?"
+        },
+        {
+          "role": "assistant",
+          "content": "The program emphasizes a balance of theory, systems, and applications, with a strong focus on software development. Students gain practical experience through realistic projects and learn to work both independently and in teams."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "What are the core requirements for the MS in Computer Science?"
+        },
+        {
+          "role": "assistant",
+          "content": "Students must complete three core courses from a list that includes topics like algorithms, theoretical CS, systems, and software development, plus a master's project or thesis. Thesis and project credits combined cannot exceed six."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "What is the difference between the Project and Thesis tracks?"
+        },
+        {
+          "role": "assistant",
+          "content": "Project track students complete CIS 600 (3 credits) and take six electives (18 credits). Thesis track students complete CIS 690 (3 to 6 credits) and take 5 to 6 electives, totaling 15 to18 credits. One course may overlap between the two."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Are there any seminar or GPA requirements for graduation?"
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, students must attend and pass CIS 599 seminars for two semesters with 80% attendance and submit a report each term. A minimum 3.0 GPA is required, and only grades of C or better count toward the degree."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Does UMass Dartmouth offer an accelerated BS/MS option in Computer Science?"
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, qualified undergraduates in the CS program can apply for an integrated BS/MS track, allowing them to complete both degrees with fewer total credits."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Is it possible to register for a graduate course if I am not enrolled in the program?"
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, individuals with a undergrad degree can take graduate courses as non-degree special students if space is available and the department approves. Most programs allow up to six credits to count toward a future degree. Check with the Graduate Program Director for specifics."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Do you offer graduate application fee waivers or deferrals for prospective students with financial trouble?"
+        },
+        {
+          "role": "assistant",
+          "content": "No, UMass Dartmouth does not offer fee waivers or deferrals for graduate applications under any circumstances."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Can I apply for a PhD program with only a bachelor's degree?"
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, UMass Dartmouth doctoral programs accept applicants with just a bachelor's degree, as well as those who hold both bachelor's and master's degrees."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Is the Subject GRE (AGRE) required for any of your programs?"
+        },
+        {
+          "role": "assistant",
+          "content": "No, it is not required. However, it is recommended for applicants seeking"
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Do you offer financial assistance?"
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, financial assistance is primarily offered through graduate assistantships, awarded by individual departments. U.S. citizens may also apply for loans and federal work-study by submitting the FAFSA with UMass Dartmouth listed as a recipient."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Can I apply to more than one master's or doctoral program at the same time if so, how?"
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, you can apply to multiple programs, but each requires a separate application, fee, and statement of purpose. If accepted into more than one, you must choose one to enroll in, unless its a formal joint degree program like JD/MBA."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Do you accept a three-year degree from an international college/university?"
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, UMass Dartmouth accepts three-year international degrees if they are evaluated as equivalent to a U.S. bachelor's degree."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Are we allowed to work in a team of 2 for the Master's Project?"
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, group projects are allowed if your faculty mentor approves. While each student enrolls individually in DSC 550, your mentor can assign multiple students to a shared project and will decide if the work meets completion criteria."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Are we allowed to do an internship along with the Master's Project? Can an internship substitute for it in the final semester?"
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, you can do both at the same time. An internship may substitute for the Masters Project if your faculty mentor approves and you still register for DSC 550. However, international students needing CPT must enroll in EGR 500 for internship work, not DSC 550."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "How do I get started with my Master's Project or Thesis?"
+        },
+        {
+          "role": "assistant",
+          "content": "First, find a research advisor whose interests align with your's check faculty profiles or the CSCVR research groups page. Once a project is agreed upon, ask your advisor to open a section of DSC 550 (Project) or DSC 690 (Thesis), then enroll in that section. Thesis students start with DSC 550, then take DSC 690 the following semester."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "How many online courses can I use for my degree?"
+        },
+        {
+          "role": "assistant",
+          "content": "You may take up to three online courses during your entire MS program. Only courses offered through the Online and Continuing Education (OCE) program count as online courses."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "I was offered an internship, how do I apply for Curricular Practical Training (CPT)?"
+        },
+        {
+          "role": "assistant",
+          "content": "To apply for CPT, you must enroll in the CPT-approved course EGR 500 (3 credits). If you've already used those 3 credits, you cannot get another CPT, but you may explore industry projects through MTH 540 instead."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "I need fewer than 9 credits to complete my degree. What forms do I need to fill out?"
+        },
+        {
+          "role": "assistant",
+          "content": "You must submit the full-time status form to be considered full time. International students must also complete a reduced course load form via the ISSC website. If you're"
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "I finished all my graduate coursework. How do I apply for graduation?"
+        },
+        {
+          "role": "assistant",
+          "content": "Watch for an email from the registrar with graduation instructions. Also, complete the DS Master's Check Sheet listing your 10 MS courses and send it to a program co-director. BS/MS students should mark any courses double-counted toward both degrees."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "I'm on a student visa. How many online classes can I take per semester?"
+        },
+        {
+          "role": "assistant",
+          "content": "During the academic year, only 1 online course is allowed per semester. In summer, up to 2 online courses are allowed. In your final semester, restrictions vary by course count, and a Reduced Course Load (RCL) form may be required via ISSC."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "What should I do if I have a class enrollment error?"
+        },
+        {
+          "role": "assistant",
+          "content": "Contact the course instructor or email the Data Science Help Desk at datascience-helpdesk@umassd.edu. Some errors, like CIS-OGP or OGC-only, may require a permission number or help desk assistance."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Where can I find the course schedules and requirements for the Data Science program?"
+        },
+        {
+          "role": "assistant",
+          "content": "You can view them in the Data Science section and the 2024-2025 Graduate Catalog available on the university website."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "Can I count 400-level courses toward my MS degree?"
+        },
+        {
+          "role": "assistant",
+          "content": "Yes, you can count to two approved 400 level courses (6 credits), provided you havent taken similar undergraduate courses and havent taken the corresponding 500-level versions."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "What are the enrollment rules for international students?"
+        },
+        {
+          "role": "assistant",
+          "content": "International students must enroll in at least 9 credits per semester. In final semester, students must submit a Reduced Course Load form via the ISSC website."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "How should students get started with course planning?"
+        },
+        {
+          "role": "assistant",
+          "content": "Students should consult the Graduate Catalog and work with their academic advisor to plan a balanced schedule (9 credits per semester) and understand course substitutions, electives, and overload limits."
+        }
+      ]
+    },
+    {
+      "conversation": [
+        {
+          "role": "user",
+          "content": "What research and seminar opportunities are available to Data Science students at UMass Dartmouth?"
+        },
+        {
+          "role": "assistant",
+          "content": "Students can attend CIS 599 seminars, CSCDR Computational Lunches, and DiSH hands-on workshops. They can also engage in faculty-led research across fields like AI, data privacy, biomedical computing, and scientific machine learning. For intensive computing needs, students may request access to the Tukey server through a faculty sponsor."
+        }
+      ]
+    }
+  ]
