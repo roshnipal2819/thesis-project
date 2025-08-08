@@ -1,0 +1,15 @@
+python3 -c "import torch; print(torch.cuda.is_available()); print(torch.cuda.get_device_name(0))"
+
+conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia -y
+
+conda create --name f5-tts python=3.10 -y
+conda activate f5-tts
+
+ pip install torch==2.4.0+cu124 torchaudio==2.4.0+cu124 --extra-index-url https://download.pytorch.org/whl/cu124
+ nvidia-smi
+ 
+ conda install -c conda-forge cudatoolkit-dev -y
+
+
+conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia -y
+
