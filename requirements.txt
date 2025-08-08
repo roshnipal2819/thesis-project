@@ -1,0 +1,55 @@
+#git+https://github.com/huggingface/transformers
+#git+https://github.com/huggingface/accelerate
+#sudo apt-get install espeak-ng
+#sudo apt-get install libportaudio2
+#ffmpeg     //package
+#conda install -c anaconda pyaudio
+#Python==3.10.16
+spaces==0.35.0
+xxhash==3.5.0
+datasets==3.5.0
+librosa==0.11.0
+soundfile==0.13.1
+gradio==4.44.1
+numpy==1.26.4
+torch==2.4.0+cu124
+gradio-client==1.3.0
+tokenizers==0.21.1
+#transformers==4.22.2
+huggingface-hub //0.30.0
+ipywidgets==8.1.6
+openai==1.77.0
+langchain==0.3.24
+langchain-community==0.3.22
+python-dotenv==1.1.0
+gradio-webrtc==0.0.9a1
+langchain-openai // 0.7.3
+
+#Kokoro
+phonemizer //3.3.0
+scipy //1.15.2
+munch //4.0.0
+#einops
+#timm
+#pillow //10.4.0
+#git+https://github.com/huggingface/diffusers
+#sentencepiece
+#bitsandbytes
+#protobuf
+#deord
+#peft
+misaki //0.9.4
+
+#Lamma installations:
+#pip install --force-reinstall --no-cache-dir --no-deps git+https://github.com/unslothai/unsloth.git
+#torch==2.5.1+cu124 torchaudio==2.5.1+cu124 torchvision==0.20.1+cu124 --index-url https://download.pytorch.org/whl/cu124
+torch==2.5.1+cu124
+torchaudio==2.5.1+cu124
+torchvision==0.20.1+cu124
+unsloth
+unsloth_zoo
+vllm // 0.7.2
+filelock==3.16.1
+xformers==0.0.28.post3
+xgrammar==0.1.11
+trl==0.8.2
